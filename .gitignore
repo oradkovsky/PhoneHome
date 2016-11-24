@@ -1,6 +1,7 @@
-.classpath
-.project
-.settings
-
-bin/
-gen/
+.gradle
+/local.properties
+/gradle.properties
+.DS_Store
+/build
+.idea
+*.iml
